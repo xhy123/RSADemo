@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a56da9bec1202555e603c318075c2e0a485d81f">
+        <dex dex="D:\Users\movie\RSA\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ac9edd539e632ff957abc1513ffa598667d38014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_47dfa41581f79939b9eb25f8332cde80eba42dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_44698ea6d8d9e5f14b65c4cb08142d4aea1e509a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program Files\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Users\movie\RSA\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_58a42bba8bb280f973e6527194a279db4aaafaab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f423fb35cb2526884e52d2a43c2c0af5a7460ec3">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\instant-run_070c333bf65ce61fd833799bec0431a86c2997d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_93882248e8a1733bd55bbbef1808d499a5df8cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_ef2b42dc55fee741d9e9426f91315b5e8a90be1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="965eceddd81aeceadb6007a5fcec2478eced7685">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\instant-run-bootstrap_db6516b78421581259fb8bd9744e69f72d03625b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_3a666f8f4ced40b0d0714dffc0d1f2e6447b8af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6fc754f718aedb36554455603c3f85c4bcc66ba0">
+        <dex dex="D:\Users\movie\RSA\app\build\intermediates\pre-dexed\debug\instant-run_6f417ba1baffd1cc3134d13dd602f1271dd07298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Users\movie\RSA\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_73f2f2ac12cb0ddda00a4c89d498c3c5566b0e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program Files\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_bbf1f4fc325a79ebfec6a1cce5cc58b120dc8909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_78261cf6d2429d9ff62b006695ad9b97287823da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Users\movie\RSA\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_d036dafdb7ec00a36f1252ff9e3fe7426c2d70cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_09f6e668aab3eb19384de59774c3c9f8134ff8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_bb1b05f77aaf38087b4de21372046eec3d23d484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\movie\RSA\myapplication\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Users\movie\RSA\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_b93bcac7645a4831af0a36c40d318bd7a5ec35e7.jar" />
+    </item>
+
+</items>
